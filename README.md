@@ -17,7 +17,7 @@
 
 ## 🚀 **Portfolio Overview**
 
-Welcome to my **Advanced Observability Portfolio**! As a passionate Site Reliability Engineer, I specialize in architecting and implementing **next-generation observability ecosystems** that don't just monitor systems—they **predict failures**, **optimize performance**, and **deliver exceptional user experiences**.
+Welcome to my **Advanced Observability Portfolio**! , I specialize in architecting and implementing **next-generation observability ecosystems** that don't just monitor systems—they **predict failures**, **optimize performance**, and **deliver exceptional user experiences**.
 
 This repository represents months of hands-on experience building production-ready monitoring solutions for **Kubernetes-based applications** using cutting-edge tools including **Groundcover**, **Prometheus**, **Grafana**, and **ClickHouse**.
 
@@ -751,10 +751,9 @@ Cloud & Infrastructure   ██████████████████�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Professional-red?style=for-the-badge&logo=gmail)](mailto:your.email@domain.com)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-success?style=for-the-badge&logo=upwork)](https://upwork.com/freelancers/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rohit-sahu-797657206/))
+[![Email](https://img.shields.io/badge/Email-Professional-red?style=for-the-badge&logo=gmail)](mailto:rohitsahu70498@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)]([https://github.com/yourusername](https://github.com/rohitsahu07))
 
 **Response Time**: Within 24 hours  
 **Availability**: Open to new projects and collaborations  
